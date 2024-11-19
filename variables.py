@@ -1,4 +1,4 @@
-# variables.py
+#Definición de las variables.py del juego
 DIMENSIONES = 10  # Tamaño del tablero (10x10)
 BARCOS = {
     "portaaviones": 4,  # Barco de 4 posiciones

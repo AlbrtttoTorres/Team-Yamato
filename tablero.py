@@ -86,4 +86,3 @@ class Tablero:
         return np.sum(self.tablero_interno == CARACTER_BARCO)
 
 print(Tablero)
-
